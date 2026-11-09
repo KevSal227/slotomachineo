@@ -1,6 +1,6 @@
 # 🎰 JavaScript Slot Machine
+<img width="936" height="507" alt="Slot Machine SS" src="https://github.com/user-attachments/assets/b9054661-126e-43d6-9bc5-de9582d1b4fd" />
 
-### JavaScript Bootcamp Assignment
 
 ## About the Project
 
