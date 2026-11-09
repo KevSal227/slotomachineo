@@ -1,24 +1,65 @@
-# 🎰 Week05 Bootcamp2019 Project: Slot Machine
+# 🎰 JavaScript Slot Machine
 
-### Goal: Build a Simple Slot Machine
+### JavaScript Bootcamp Assignment
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+## About the Project
 
-### How to submit your code for review:
+This assignment focuses on building a simple slot machine game using JavaScript.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+The idea is to create a game where users can spin three reels, choose how much they want to bet, and see their balance update based on the results.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+The goal is to practice JavaScript fundamentals while building something interactive.
+
+## Project Goals
+
+- Create a slot machine with three reels.
+- Include at least five possible items per reel.
+- Allow users to choose between minimum and maximum bets.
+- Generate random results when the reels spin.
+- Update the player's balance after each spin.
+- Display the results on the webpage.
+
+## Suggested Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Concepts to Practice
+
+- JavaScript functions and conditional statements.
+- Working with arrays.
+- Generating random values.
+- DOM manipulation.
+- Event listeners.
+- Updating values based on user interactions.
+- Building basic game logic.
+
+## How It Would Work
+
+1. The player starts with a balance.
+2. They choose a minimum or maximum bet.
+3. The player spins the reels.
+4. JavaScript randomly selects the result for each reel.
+5. The game checks the outcome and updates the player's balance.
+
+## Project Status
+
+**Assignment instructions available — implementation not yet uploaded.**
+
+The repository currently contains the original bootcamp assignment README but no application code.
+
+## Next Steps
+
+1. Build the slot machine interface.
+2. Add three reels with at least five possible items each.
+3. Implement the spin functionality.
+4. Add minimum and maximum betting options.
+5. Create the balance and payout logic.
+6. Test the game and upload the completed code.
+
+## Author
+
+**Kevin Salazar**
+
+[GitHub](https://github.com/KevSal227)
