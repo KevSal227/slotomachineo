@@ -1,7 +1,7 @@
 # 🎰 JavaScript Slot Machine
 <img width="462" height="313" alt="slot machine screenshot " src="https://github.com/user-attachments/assets/8ab77960-76af-4f6f-8835-fb7f83a00a78" />
 
-
+https://slotomachineo.onrender.com/
 
 ## About the Project
 
